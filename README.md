@@ -1,5 +1,6 @@
 # Madlibs
  
+@@ text in purple (and bold)@@
 Mad libs instructions.
 Create a function, call it madlibs.
 Inside said function, there will be two storylines. Save each story to a variable. 
